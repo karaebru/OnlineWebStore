@@ -1,0 +1,17 @@
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.deps.json
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.dll
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.pdb
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.AssemblyInfo.cs
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.dll
+C:\Users\Gano\Desktop\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.pdb
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.deps.json
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.dll
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\bin\Debug\netcoreapp2.2\eTicaret.Entities.pdb
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.csprojAssemblyReference.cache
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.AssemblyInfo.cs
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.dll
+C:\Users\Gano\Desktop\g131210085_g151210086\eTicaret\eTicaret.Entities\obj\Debug\netcoreapp2.2\eTicaret.Entities.pdb

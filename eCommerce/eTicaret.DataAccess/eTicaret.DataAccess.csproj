@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Concrete\Memory\**" />
+    <Compile Remove="Concrete\MySql\**" />
+    <Compile Remove="Concrete\Oracle\**" />
+    <EmbeddedResource Remove="Concrete\Memory\**" />
+    <EmbeddedResource Remove="Concrete\MySql\**" />
+    <EmbeddedResource Remove="Concrete\Oracle\**" />
+    <None Remove="Concrete\Memory\**" />
+    <None Remove="Concrete\MySql\**" />
+    <None Remove="Concrete\Oracle\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eTicaret.Entities\eTicaret.Entities.csproj" />
+
+  </ItemGroup>
+
+</Project>

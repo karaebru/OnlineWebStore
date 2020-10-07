@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.EfCoreCartDal">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Concrete\EfCore\EfCoreCartDal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.EfCoreCategoryDal">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\EfCore\EfCoreCategoryDal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.EfCoreGenericRepository&lt;T, TContext&gt;">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAgAAAAAgAIA=</HashCode>
+      <FileName>Concrete\EfCore\EfCoreGenericRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.EfCoreOrderDal">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\EfCore\EfCoreOrderDal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.EfCoreProductDal">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAACAAE=</HashCode>
+      <FileName>Concrete\EfCore\EfCoreProductDal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.SeedDatabase">
+    <Position X="13.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAEAQ=</HashCode>
+      <FileName>Concrete\EfCore\SeedDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Concrete.EfCore.ShopContext">
+    <Position X="15.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAAAAAACAAAEAAAEAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Concrete\EfCore\ShopContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Migrations.CreateDatabase">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190411114829_CreateDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Migrations.UpdateProductPriceNullable">
+    <Position X="7" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190423041958_UpdateProductPriceNullable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Migrations.AddingCartEntities">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190501192019_AddingCartEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Migrations.AddingOrderEntities">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190505085931_AddingOrderEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eTicaret.DataAccess.Migrations.ShopContextModelSnapshot">
+    <Position X="5.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\ShopContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="eTicaret.DataAccess.Abstract.ICartDal">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Abstract\ICartDal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.DataAccess.Abstract.ICategoryDal">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\ICategoryDal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.DataAccess.Abstract.IOrderDal">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IOrderDal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.DataAccess.Abstract.IProductDal">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAACAAE=</HashCode>
+      <FileName>Abstract\IProductDal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.DataAccess.Abstract.IRepository&lt;T&gt;">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAgAAAAAgAIA=</HashCode>
+      <FileName>Abstract\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

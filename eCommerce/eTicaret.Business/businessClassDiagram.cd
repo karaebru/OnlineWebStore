@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="eTicaret.Business.Concrete.CartManager" BaseTypeListCollapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAYAAAAAAAAAAAAAAAAAAgAIAAAAACA=</HashCode>
+      <FileName>Concrete\CartManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="eTicaret.Business.Concrete.CategoryManager" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAQAEAAGAAAgAAAAAAAIA=</HashCode>
+      <FileName>Concrete\CategoryManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="eTicaret.Business.Concrete.OrderManager" BaseTypeListCollapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\OrderManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="eTicaret.Business.Concrete.ProductManager" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAACQAAAAAYAAAAAAAAEAAEAAAgAAAAACAIE=</HashCode>
+      <FileName>Concrete\ProductManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="eTicaret.Business.Abstract.ICartService">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAYAAAAAAAAAAAAAAAAAAAAIAAAAACA=</HashCode>
+      <FileName>Abstract\ICartService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.Business.Abstract.ICategoryService">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAQAEAAEAAAgAAAAAAAIA=</HashCode>
+      <FileName>Abstract\ICategoryService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.Business.Abstract.IOrderService">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.Business.Abstract.IProductService">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAYAAAAAAAAEAAEAAAgAAAAACAIE=</HashCode>
+      <FileName>Abstract\IProductService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="eTicaret.Business.Abstract.IValidator&lt;T&gt;">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
